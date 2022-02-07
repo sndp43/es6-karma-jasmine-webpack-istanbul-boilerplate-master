@@ -34,4 +34,5 @@ npm run coverage
 Will generate coverage report.
 
 ## Credits
+* https://github.com/dcroitoru/es6-karma-jasmine-webpack-istanbul-boilerplate
 * https://github.com/zyml/es6-karma-jasmine-webpack-boilerplate
