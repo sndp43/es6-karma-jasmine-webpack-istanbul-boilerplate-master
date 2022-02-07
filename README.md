@@ -33,6 +33,12 @@ npm run coverage
 ```
 Will generate coverage report.
 
+### Error
+Hi Issue i am facing here is i am not able to spy on "LogMsg" function in "module.spec.js" 
+hence its throwing following error:- 
+Chrome 98.0.4758 (Windows 10.0.0) module should display proper hi and spy on LogMsg FAILED
+Expected spy LogMsg to have been called.
+
 ## Credits
 * https://github.com/dcroitoru/es6-karma-jasmine-webpack-istanbul-boilerplate
 * https://github.com/zyml/es6-karma-jasmine-webpack-boilerplate
